@@ -1,11 +1,12 @@
 # CGPA-and-GPA-Calculator
 CGPA and GPA calculator using C++ programming.
 
-Features
+#Features
 -Calculate CGPA
 -Usefull Calculator
 
-Setup
+#Setup
+
 1.Execute the program 
 
 2.Select one option from the menu displayed
